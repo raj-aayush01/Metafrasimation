@@ -2,5 +2,6 @@
 Sign language to text converter
 <br>
 Author - Aayush Raj
-<t>Sharanya R
-<t>Mahalakshmi
+<br>Sharanya R
+<br>Mahalakshmi
+Udith S Nair
